@@ -1,0 +1,11 @@
+Project: Recreate Google homepage
+
+Google: Google logo[x], Search bar[x], Google search button[x],
+I'm feeling lucky button[x].
+
+Top bar: About[x], Store[x] (top left); Gmail[x], Images[x],
+Bento menu[], Sign in button[x] (top right).
+
+Footer: Advertising[x], Business[x], How search works[x]
+(bottom left); carbon neutral since 2007[x] (middle);
+Privacy[x], Terms[x], Setting[] (bottom right). 
