@@ -8,4 +8,5 @@ Bento menu[], Sign in button[x] (top right).
 
 Footer: Advertising[x], Business[x], How search works[x]
 (bottom left); carbon neutral since 2007[x] (middle);
-Privacy[x], Terms[x], Setting[] (bottom right). 
+Privacy[x], Terms[x], Setting[] (bottom right).
+
